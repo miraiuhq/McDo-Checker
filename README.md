@@ -1,7 +1,7 @@
 # McDonald's Checker 🍔
 
 <p align="center">
-  <img src="https://imgur.com/a/MGo7itS" width="600" alt="McDo Checker Banner">
+  <img src="https://imgur.com/a/MGo7itS.png" width="600" alt="McDo Checker Banner">
 </p>
 
 **McDo Checker 2025** is a lightweight and educational Python software designed to __simulate account checking__.  
